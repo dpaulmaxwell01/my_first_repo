@@ -1,3 +1,4 @@
 Today I learned how to use GitHub.
 I created my first repository.
 I learned how to commit changes.
+I am learning how commit history works. 
