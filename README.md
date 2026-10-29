@@ -1,2 +1,3 @@
-# my_first_repo
-My First Github Project
+# My First Github Project
+Hello! I'm learning Github.
+This is my first repository.
